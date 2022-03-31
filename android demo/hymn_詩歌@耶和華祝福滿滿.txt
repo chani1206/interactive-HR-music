@@ -1,108 +1,108 @@
 V2.1 F4.4 Q60 C60
-L"\u674e\u4fe1\u5100" M"\u6e38\u667a\u5a77" S"" N"\u8036\u548c\u83ef\u795d\u798f\u6eff\u6eff"
+L"李信儀" M"游智婷" S"" N"耶和華祝福滿滿"
 R52 T16
-C W"\u7530" R64
-W"\u4e2d" R67 T8
-W"\u7684" R64
-Am W"\u767d" R67
-W"\u9dfa" R69
-W"\u9de5\uff0c" R72 T16
-Dm W"\u7121" R64 T8
-W"\u6b20" R62
-W"\u7f3a" R62
-W"\u4ec0" R60
-G W"\u9ebc\uff0c" R62 T32
-C W"\u5c71" R64 T16
-W"\u9802" R67 T8
-W"\u7684" R64
-Am W"\u767e" R67
-W"\u5408" R69
-Dm W"\u82b1\uff0c" R72 T16
-W"\u6625" R72 T8
-W"\u5929" R74
-W"\u73fe" R72
-W"\u9999" R69 T4
+C W"田" R64
+W"中" R67 T8
+W"的" R64
+Am W"白" R67
+W"鷺" R69
+W"鷥，" R72 T16
+Dm W"無" R64 T8
+W"欠" R62
+W"缺" R62
+W"什" R60
+G W"麼，" R62 T32
+C W"山" R64 T16
+W"頂" R67 T8
+W"的" R64
+Am W"百" R67
+W"合" R69
+Dm W"花，" R72 T16
+W"春" R72 T8
+W"天" R74
+W"現" R72
+W"香" R69 T4
 R72
-G W"\u5473\uff0c" R74 T24
-W"\u7e3d" R72 T4
-W"\u662f" R74
-Am W"\u5168" R76 T8
-W"\u80fd" R74 T4
+G W"味，" R74 T24
+W"總" R72 T4
+W"是" R74
+Am W"全" R76 T8
+W"能" R74 T4
 R72
-W"\u7684" R71 T8
-W"\u4e0a" R72
-Em W"\u5e1d\uff0c" R67 T24
-W"\u6bcf" R64 T4
-W"\u65e5" R67
-F W"\u8cde" R69 T8
-W"\u8cdc" R72 T4
+W"的" R71 T8
+W"上" R72
+Em W"帝，" R67 T24
+W"每" R64 T4
+W"日" R67
+F W"賞" R69 T8
+W"賜" R72 T4
 R69
-C W"\u771f" R60 T8
-W"\u798f" R62
-W"\u6c23\uff0c" R64 T24
-W"\u4f7f" R64 T4
-W"\u5730" R62
-Em W"\u4e0a" R64 T8
-W"\u767c" R67 T16
-W"\u7259" R64 T4
+C W"真" R60 T8
+W"福" R62
+W"氣，" R64 T24
+W"使" R64 T4
+W"地" R62
+Em W"上" R64 T8
+W"發" R67 T16
+W"牙" R64 T4
 R67
-Am W"\u7d50" R69 T8
-W"\u5be6" R72 T16
-W"\u986f" R72 T4
-W"\u51fa" R76
-Dm W"\u611b" R74 T8
-W"\u75bc" R72
-W"\u5f97" R69
-W"\u6839" R67 T4
+Am W"結" R69 T8
+W"實" R72 T16
+W"顯" R72 T4
+W"出" R76
+Dm W"愛" R74 T8
+W"疼" R72
+W"得" R69
+W"根" R67 T4
 R69
-C W"\u64da\uff0c" R72 T48
+C W"據，" R72 T48
 R8 T8
-W"\u8036" R72 T4
-W"\u548c" R74
-C W"\u83ef" R76 T8
-W"\u795d" R74
-W"\u798f" R72
-W"\u6eff" R74
-W"\u6eff\uff0c" R76 T24
-W"\u5c31" R72 T8
-Em W"\u50cf" R71
-W"\u6d77" R72
-W"\u908a" R71
-W"\u571f" R67
-W"\u6c99\uff0c" R64 T24
-W"\u6069" R64 T4
-W"\u5178" R67
-F W"\u6148" R69 T8
-W"\u611b" R72 T16
-W"\u76f4" R69 T8
-G W"\u5230" R67
+W"耶" R72 T4
+W"和" R74
+C W"華" R76 T8
+W"祝" R74
+W"福" R72
+W"滿" R74
+W"滿，" R76 T24
+W"就" R72 T8
+Em W"像" R71
+W"海" R72
+W"邊" R71
+W"土" R67
+W"沙，" R64 T24
+W"恩" R64 T4
+W"典" R67
+F W"慈" R69 T8
+W"愛" R72 T16
+W"直" R69 T8
+G W"到" R67
 R69 T4
 R67
-W"\u842c" R60 T8
-W"\u4e16" R62
-C W"\u4ee3\uff0c" R64 T48
+W"萬" R60 T8
+W"世" R62
+C W"代，" R64 T48
 R8 T8
-W"\u6211" R72 T4
-W"\u8981" R74
-C W"\u8209" R76 T8
-W"\u624b" R74
-W"\u656c" R72
-W"\u62dc" R74
-W"\u7942\uff0c" R76 T24
-W"\u7528" R72 T8
-Em W"\u6b61" R71
-W"\u559c" R72
-W"\u7684" R71
-W"\u6b4c" R67
-W"\u8072" R64 T24
-W"\u8b9a" R64 T4
-W"\u7f8e" R67
-F W"\u7a31" R69 T8
-W"\u980c" R72 T16
-W"\u7942\uff0c" R69 T8
-G W"\u540d" R67 T16
-W"\u6c38" R69 T8
-W"\u7121" R67 T4
+W"我" R72 T4
+W"要" R74
+C W"舉" R76 T8
+W"手" R74
+W"敬" R72
+W"拜" R74
+W"祂，" R76 T24
+W"用" R72 T8
+Em W"歡" R71
+W"喜" R72
+W"的" R71
+W"歌" R67
+W"聲" R64 T24
+W"讚" R64 T4
+W"美" R67
+F W"稱" R69 T8
+W"頌" R72 T16
+W"祂，" R69 T8
+G W"名" R67 T16
+W"永" R69 T8
+W"無" R67 T4
 R69
-C W"\u606f\u3002" R72 T64
+C W"息。" R72 T64
 K
