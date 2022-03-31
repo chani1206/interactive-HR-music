@@ -30,6 +30,10 @@ import com.Nulody.NupianoV2.Fragment3;
 
 import java.util.List;
 
+/**
+ * Created by Chani on 2022/03/28.
+ */
+
 public class HeartRateService extends Service {
 
     BluetoothGatt bluetoothGatt;
