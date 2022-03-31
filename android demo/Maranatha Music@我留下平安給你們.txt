@@ -1,0 +1,154 @@
+V2.1 F4.4 Q120 C72
+N"我留下平安給你們" L"Keith Routhledge" M"Keith Routhledge" S"Maranatha Music"
+
+R73 T8
+R75
+
+R76 T32
+R76 T16
+
+R75 T8
+R73 T24
+R71 T8
+R70
+
+R71 T48
+
+W"<準備>" R71 T32
+W"My_" R75 T8
+R76
+
+W"peace_" R78 T32
+W"I_" R75 T16
+
+W"give_" R78 T32
+W"un" R78 T8
+W"to_" R75
+
+W"you._" R73 T48
+
+R73 T32
+W"It's_" R75 T8
+W"a_" R76
+
+W"peace_" R78 T32
+W"that_" R78 T8
+W"the_" R75
+
+W"world_" R78 T32
+W"can" R78 T8
+W"not_" R75
+
+W"give._" R73 T48
+
+R73 T32
+W"It's_" R80 T8
+W"a_" R82
+
+W"peace_" R83 T32
+W"that_" R83 T8
+W"the_" R83
+
+W"world_" R83 T32
+W"can" R82 T8
+W"not_" R80
+
+W"un" R82 T32
+W"der" R78 T16
+
+W"stand._" R75 T48
+
+W"Peace_" R80 T32
+W"to_" R76 T16
+
+W"know,_" R73 T32
+W"peace_" R75 T8
+R76
+
+W"to_" R78 T32
+R75 T16
+
+W"give._" R71 T32
+W"My_" R73 T8
+R75
+
+W"peace_" R76 T32
+W"I_" R76 T16
+
+W"give_" R75 T8
+R73 T24
+W"un" R71 T8
+W"to_" R70
+
+W"you._" R71 T48
+
+R71 T32
+W"My_" R75 T8
+R76
+
+W"love_" R78 T32
+W"I_" R75 T16
+
+W"give_" R78 T32
+W"un" R78 T8
+W"to_" R75
+
+W"you._" R73 T48
+
+R73 T32
+W"It's_" R75 T8
+W"a_" R76
+
+W"love_" R78 T32
+W"that_" R78 T8
+W"the_" R75
+
+W"world_" R78 T32
+W"can" R78 T8
+W"not_" R75
+
+W"give._" R73 T48
+
+R73 T32
+W"It's_" R80 T8
+W"a_" R82
+
+W"love_" R83 T32
+W"that_" R83 T8
+W"the_" R83
+
+W"world_" R83 T32
+W"can" R82 T8
+W"not_" R80
+
+W"un" R82 T32
+W"der" R78 T16
+
+W"stand._" R75 T48
+
+W"Love_" R80 T32
+W"to_" R76 T16
+
+W"know,_" R73 T32
+W"love_" R75 T8
+R76
+
+W"to_" R78 T32
+R75 T16
+
+W"give._" R71 T32
+W"My_" R73 T8
+R75
+
+W"love_" R76 T32
+W"I_" R76 T16
+
+W"give_" R75 T8
+R73 T24
+W"un" R71 T8
+W"to_" R70
+
+W"you._" R71 T48
+
+R71 T32
+
