@@ -1,0 +1,240 @@
+V2.1 G4.4 Q90
+L"Alan Walker" M"Alan Walker" S"Alan Walker" N"Alan Walker"
+
+
+Em W"Intro" R67 T16
+R67 T16
+R67 T16
+Em R71 T16
+
+C R76 T16
+R76 T16
+R76 T16
+C R74 T16
+
+G R71 T16
+R71 T16
+R71 T16
+R71 T16
+
+D R65 T16
+R65 T16
+R65 T16
+D R64 T16
+
+Ns1 Em S T8
+Em W"You" R67 T8
+W"were" R67 T8
+W"the" R64 T8
+W"sha-" R67 T8
+W"dow" R64 T8
+Em W"to" R67 T8
+W"my" R69 T8
+
+C W"live." R71 T16
+W"Did" R67 T8
+W"you" R67 T8
+W"fell" R62 T8
+C W"us" R71 T24
+
+G R71 T32
+S T8
+G W"An-" R67 T8
+W"oth-" R67 T8
+W"er" R67 T8
+
+D W"star." R65 T24
+W"You" R65 T8
+W"fade" R65 T8
+W"a-" R64 T8
+D W"way" R67 T16
+
+Em S T8
+Em W"A-" R65 T8
+W"fraid" R65 T8
+W"our" R64 T8
+W"aims" R67 T8
+W"is" R64 T8
+Em W"out" R67 T8
+W"of" R69 T8
+
+C W"sight." R71 T16
+W"Wan-" R67 T8
+W"na" R67 T8
+W"see" R74 T8
+C W"us" R71 T24
+
+G S T32
+S T8
+G W"a-" R67 T8
+W"a-" R67 T8
+W"live" R69 T8
+
+D R69 T32
+S T8
+W"Where" R71 T8
+D W"are" R71 T8
+W"you" R71 T8
+
+Em W"now?" R71 T16
+R67 T16
+R67 T16
+Em R71 T16
+
+C R76 T16
+R76 T16
+R76 T8
+W"Where" R71 T8
+C W"are" R71 T8
+W"you" R71 T8
+
+G W"now?" R71 T16
+R71 T16
+R71 T16
+R71 T16
+
+D R65 T16
+R65 T16
+R65 T8
+W"Where" R71 T8
+D W"are" R71 T8
+W"you" R71 T8
+
+Em W"now?" R71 T32
+S T8
+W"was" R67 T4
+W"is" R69 T4
+Em W"all" R69 T8
+W"in" R69 T4
+W"my" R71 T4
+
+C W"fan-" R69 T8
+W"ta-" R67 T8
+W"sy?" R67 T24
+W"Where" R71 T8
+C W"are" R71 T8
+W"you" R71 T8
+
+G W"now?" R71 T32
+S T8
+W"Where" R67 T4
+W"you" R67 T4
+W"onl-" R67 T8
+W"y" R67 T4
+W"i-" R69 T4
+
+D W"ma-" R65 T8
+W"gi-" R65 T8
+W"na-" R65 T8
+D W"ry?" R67 T32
+S T8
+
+S T8
+W"Where" R71 T8
+W"are" R71 T8
+W"you" R71 T8
+
+Em W"now?" R71 T32
+S T24
+Em W"At-" R67 T8
+
+C W"lan-" R64 T8
+W"tis" R62 T32
+C W"un-" R67 T8
+W"der" R74 T8
+W"the" R74 T4
+W"see" R71 T4
+
+G R71 T32
+S T8
+W"un-" R67 T8
+W"der" R74 T8
+W"the" R74 T4
+W"see" R71 T4
+
+D W"-" R71 T24
+W"e" R69 T8
+R69 T8
+D W"Where" R71 T8
+W"are" R71 T8
+W"you" R71 T8
+
+Em W"now?" R71 T32
+Em W"An-" R67 T8
+W"ot-" R67 T8
+W"er" R64 T8
+W"dream" R72 T8
+
+C R72 T48
+S T8
+C W"The" R74 T8
+
+G W"mon-" R71 T8
+W"sters" R74 T8
+W"run-" R71 T8
+W"ning" R74 T8
+W"wild" R71 T8
+W"in-" R74 T8
+W"side" R71 T8
+W"of" R69 T4
+W"me." R72 T4
+
+D R72 T24
+W"I'm" R64 T8
+D W"fa-" R72 T16
+W"ded" R71 T16
+
+Em R71 T32
+S T32
+
+C S T24
+W"I'm" R64 T8
+C W"fa-" R72 T16
+W"ded" R71 T16
+
+G R71 T32
+S T24
+W"So" R67 T8
+
+D W"lost" R65 T24
+W"I'm" R64 T8
+D W"fa-" R72 T16
+W"ded" R71 T16
+
+Em R71 T32
+S T32
+
+C S T24
+C W"I'm" R64 T8
+C W"fa-" R72 T16
+W"ded" R74 T16
+
+G R74 T32
+S T24
+W"so" R67 T8
+
+D W"lost" R65 T24
+W"I'm" R64 T8
+D W"fa-" R72 T16
+W"ded" R71 T16
+Ne1
+J1.1.1
+
+Em R67 T16
+R67 T16
+R67 T16
+Em R71 T16
+
+C R76 T16
+R76 T16
+R76 T16
+C R74 T16
+
+G R71 T16
+R71 T16
+R71 T16
+R71 T16
+
+D R65 T64
+
+K
